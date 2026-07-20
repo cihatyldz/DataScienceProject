@@ -14,3 +14,9 @@ dev = [
     "pytest>=9.1.1",
     "ruff>=0.15.22",
 ]
+
+# pytest configuration
+[tool.pytest.ini_options]
+testpaths = [
+    "tests",
+]
