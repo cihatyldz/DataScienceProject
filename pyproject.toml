@@ -20,3 +20,4 @@ dev = [
 testpaths = [
     "tests",
 ]
+pythonpath = ["."]
